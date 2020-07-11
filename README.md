@@ -6,4 +6,6 @@ Ideas:
 - [ ] Using SwiftUI
 - [ ] Adding a VOIP and messaging functionnality
 - [ ] Avatar Selection Screen at Registery
+- [ ] Subreddit-like forum with VOIP and live functionnality
+- [ ] Ability to message people in-app
 ![Prototype of the App](https://github.com/Yaroster/vStudy/blob/master/Project_image.png)
