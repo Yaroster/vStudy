@@ -1,7 +1,11 @@
-# vStudy
-An open-source visual study app for Android and iOS !
+# vStudy 
+<img align="left" width="100" height="100" src="https://github.com/Yaroster/yarologo/blob/main/vStudy_Logo.png">
+An open-source visual study app for Android and iOS  !
 
-Ideas:
+> (Currently in Closed-Alpha)&nbsp;
+
+&nbsp;
+- Ideas:
 - [ ] Using cubes in the app's general design
 - [ ] Using SwiftUI
 - [ ] Adding a VOIP and messaging functionnality
