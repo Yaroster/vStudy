@@ -12,6 +12,8 @@ An open-source study app for Android and iOS  !
 - [ ] Avatar Selection Screen at Registery
 - [ ] Subreddit-like forum with VOIP and live functionnality
 - [ ] Ability to message people in-app
+&nbsp;
+
 ![Prototype of the App](https://github.com/Yaroster/vStudy/blob/master/Project_Image_1.png)
 <p align="center">
   <img src="https://github.com/Yaroster/vStudy/blob/master/Project_Image_2.png" />
