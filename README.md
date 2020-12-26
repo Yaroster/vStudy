@@ -1,6 +1,6 @@
 # vStudy 
 <img align="left" width="100" height="100" src="https://github.com/Yaroster/yarologo/blob/main/Logo_vStudy.png">
-An open-source study app for Android and iOS  !
+A study app for Android and iOS  !
 
 > (Currently in Closed-Alpha)&nbsp;
 
